@@ -1,7 +1,7 @@
 # PC游戏
 游戏名称  | 游戏类型  | 语言 | 发行日期 | 成人 | 介绍 | 获取方式
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
-形骸骑士 | 平台动作 | 中文 | TBA  | 无 | [🐾](#形骸骑士) | Steam 商店
+形骸骑士 | 平台动作 | 中文 | 2019年12月 | 无 | [🐾](#形骸骑士)<br>[WikiFur](http://zh.wikifur.com/wiki/Kelipot) | [Steam 商店](https://store.steampowered.com/app/1090440/Kelipot/)
 罗曼圣诞探案集 | 文字冒险 | 中文 | TBA  | 无 | [🐾](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
 履云录 | 战棋 | 中文 | TBA  | TBC | [🐾](#履云录) | TBA
 佚失的终章 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
